@@ -1,0 +1,20 @@
+{
+  "name": "validtime",
+  "version": "1.0.0",
+  "description": "Check if the given string is a correct time representation of the 24-hour clock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/validTime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/validTime/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/validTime#readme"
+}
